@@ -9,6 +9,7 @@ TD3 : Listes, piles et files
 
 TD4 : Arbres binaires de recherche
 
+Chaque TD a son propre compte rendu
 
 filliere: IDRS
 nom: Oualache Said
